@@ -1,7 +1,5 @@
 # Vue基础篇
 
-***陈华旺-chenhuawang@itany.com***
-
 [TOC]
 
 > 库：对功能和布局特性进行封装，提供易用方法的JS，CSS，HTML 等文件

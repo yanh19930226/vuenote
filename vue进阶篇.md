@@ -1,7 +1,5 @@
 # vue进阶篇
 
-***陈华旺-chenhuawang@itany.com***
-
 [TOC]
 
 ## 1、生命周期
