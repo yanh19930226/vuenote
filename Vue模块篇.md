@@ -1,7 +1,5 @@
 # Vue模块篇
 
-***陈华旺-chenhuawang@itany.com***
-
 [TOC]
 
 ## 1、组件化与模块化
